@@ -1,0 +1,4 @@
+/vendor/
+last-tests.lock
+/coverage/
+.DS_Store
